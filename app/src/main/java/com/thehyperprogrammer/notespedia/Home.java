@@ -179,24 +179,24 @@ public class Home extends AppCompatActivity {
         gotoUploads();
 
 
-//        gotoNotice();
+        gotoNotice();
 
     }
 
-//    private void gotoNotice() {
-//
-//        findViewById(R.id.notice_cardView_ID).setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                Intent intent = new Intent(Home.this, NoticeActivity.class);
-//                Bundle extras = new Bundle();
-//                extras.putString("UserCollege", ProfileCollege);
-//                intent.putExtras(extras);
-//                startActivity(intent);
-//            }
-//        });
-//
-//    }
+    private void gotoNotice() {
+
+        findViewById(R.id.notice_cardView_ID).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Home.this, NoticeActivity.class);
+                Bundle extras = new Bundle();
+                extras.putString("UserCollege", ProfileCollege);
+                intent.putExtras(extras);
+                startActivity(intent);
+            }
+        });
+
+    }
 
 //    private void gotoBusTracking() {
 //        findViewById(R.id.Bus_tracking_ID).setOnClickListener(new View.OnClickListener() {

@@ -101,80 +101,80 @@ public class About_us extends AppCompatActivity {
 
                 //Adinath Instagram Redirect
 
-                //Omkar Instagram Redirect
-
-                dialogView.findViewById(R.id.om_msg).setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-
-                        FirebaseDatabase.getInstance().getReference().child("DEVELOPERS").child("OMKAR").addValueEventListener(new ValueEventListener() {
-                            @Override
-                            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                                String URL = dataSnapshot.getValue().toString();
-                                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(URL)));
-                            }
-
-                            @Override
-                            public void onCancelled(@NonNull DatabaseError databaseError) {
-
-                            }
-                        });
-
-
-
-                    }
-                });
-
-                //Omkar Instagram Redirect
-
-                //Deepak Instagram Redirect
-
-                dialogView.findViewById(R.id.deep_msg).setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-
-                        FirebaseDatabase.getInstance().getReference().child("DEVELOPERS").child("DEEPAK").addValueEventListener(new ValueEventListener() {
-                            @Override
-                            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                                String URL = dataSnapshot.getValue().toString();
-                                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(URL)));
-                            }
-
-                            @Override
-                            public void onCancelled(@NonNull DatabaseError databaseError) {
-
-                            }
-                        });
-
-
-                    }
-                });
-
-                //Deepak Instagram Redirect
-
-                //Ashitosh Instagram Redirect
-
-                dialogView.findViewById(R.id.ashi_msg).setOnClickListener(new View.OnClickListener() {
-                    @Override
-                    public void onClick(View v) {
-
-                        FirebaseDatabase.getInstance().getReference().child("DEVELOPERS").child("ASHITOSH").addValueEventListener(new ValueEventListener() {
-                            @Override
-                            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                                String URL = dataSnapshot.getValue().toString();
-                                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(URL)));
-                            }
-
-                            @Override
-                            public void onCancelled(@NonNull DatabaseError databaseError) {
-
-                            }
-                        });
-
-                    }
-                });
-
-                //Ashitosh Instagram Redirect
+//                //Omkar Instagram Redirect
+//
+//                dialogView.findViewById(R.id.om_msg).setOnClickListener(new View.OnClickListener() {
+//                    @Override
+//                    public void onClick(View v) {
+//
+//                        FirebaseDatabase.getInstance().getReference().child("DEVELOPERS").child("OMKAR").addValueEventListener(new ValueEventListener() {
+//                            @Override
+//                            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+//                                String URL = dataSnapshot.getValue().toString();
+//                                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(URL)));
+//                            }
+//
+//                            @Override
+//                            public void onCancelled(@NonNull DatabaseError databaseError) {
+//
+//                            }
+//                        });
+//
+//
+//
+//                    }
+//                });
+//
+//                //Omkar Instagram Redirect
+//
+//                //Deepak Instagram Redirect
+//
+//                dialogView.findViewById(R.id.deep_msg).setOnClickListener(new View.OnClickListener() {
+//                    @Override
+//                    public void onClick(View v) {
+//
+//                        FirebaseDatabase.getInstance().getReference().child("DEVELOPERS").child("DEEPAK").addValueEventListener(new ValueEventListener() {
+//                            @Override
+//                            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+//                                String URL = dataSnapshot.getValue().toString();
+//                                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(URL)));
+//                            }
+//
+//                            @Override
+//                            public void onCancelled(@NonNull DatabaseError databaseError) {
+//
+//                            }
+//                        });
+//
+//
+//                    }
+//                });
+//
+//                //Deepak Instagram Redirect
+//
+//                //Ashitosh Instagram Redirect
+//
+//                dialogView.findViewById(R.id.ashi_msg).setOnClickListener(new View.OnClickListener() {
+//                    @Override
+//                    public void onClick(View v) {
+//
+//                        FirebaseDatabase.getInstance().getReference().child("DEVELOPERS").child("ASHITOSH").addValueEventListener(new ValueEventListener() {
+//                            @Override
+//                            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+//                                String URL = dataSnapshot.getValue().toString();
+//                                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(URL)));
+//                            }
+//
+//                            @Override
+//                            public void onCancelled(@NonNull DatabaseError databaseError) {
+//
+//                            }
+//                        });
+//
+//                    }
+//                });
+//
+//                //Ashitosh Instagram Redirect
 
             }
         });

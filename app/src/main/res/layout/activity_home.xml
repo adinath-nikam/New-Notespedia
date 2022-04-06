@@ -196,44 +196,44 @@
 <!--            </androidx.cardview.widget.CardView>-->
 <!--            &lt;!&ndash;            Bus Tracking&ndash;&gt;-->
 
-<!--            &lt;!&ndash;            Notice&ndash;&gt;-->
-<!--            <androidx.cardview.widget.CardView-->
-<!--                android:id="@+id/notice_cardView_ID"-->
-<!--                android:layout_width="150dp"-->
-<!--                android:layout_height="150dp"-->
-<!--                android:layout_rowWeight="1"-->
-<!--                android:layout_columnWeight="1"-->
-<!--                android:layout_gravity="center"-->
-<!--                android:layout_margin="12dp"-->
-<!--                android:layout_marginBottom="20dp"-->
-<!--                app:cardCornerRadius="12dp"-->
-<!--                app:cardElevation="6dp">-->
+            <!--            Notice-->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/notice_cardView_ID"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:layout_gravity="center"
+                android:layout_margin="12dp"
+                android:layout_marginBottom="20dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="6dp">
 
-<!--                <LinearLayout-->
-<!--                    android:layout_width="match_parent"-->
-<!--                    android:layout_height="match_parent"-->
-<!--                    android:gravity="center"-->
-<!--                    android:orientation="vertical"-->
-<!--                    android:padding="12dp">-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="12dp">
 
-<!--                    <ImageView-->
-<!--                        android:id="@+id/notice_id"-->
-<!--                        android:layout_width="50dp"-->
-<!--                        android:layout_height="50dp"-->
-<!--                        android:src="@drawable/notice_ic" />-->
+                    <ImageView
+                        android:id="@+id/notice_id"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:src="@drawable/notice_ic" />
 
-<!--                    <TextView-->
-<!--                        android:layout_width="wrap_content"-->
-<!--                        android:layout_height="wrap_content"-->
-<!--                        android:layout_marginTop="12dp"-->
-<!--                        android:gravity="center"-->
-<!--                        android:text="COLLEGE NOTICE"-->
-<!--                        android:textColor="@color/red"-->
-<!--                        android:textSize="16sp"-->
-<!--                        android:textStyle="bold" />-->
-<!--                </LinearLayout>-->
-<!--            </androidx.cardview.widget.CardView>-->
-<!--            &lt;!&ndash;            Bus Tracking&ndash;&gt;-->
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:gravity="center"
+                        android:text="COLLEGE NOTICE"
+                        android:textColor="@color/red"
+                        android:textSize="16sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+            <!--            Bus Tracking-->
 
 <!--            Uploads-->
             <androidx.cardview.widget.CardView
@@ -333,16 +333,16 @@
 
                     <ImageView
                         android:id="@+id/dcet_papers"
-                        android:layout_width="80dp"
-                        android:layout_height="80dp"
-                        android:src="@drawable/cet_icon" />
+                        android:layout_width="60dp"
+                        android:layout_height="60dp"
+                        android:src="@drawable/vtu_ic" />
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="12dp"
                         android:gravity="center"
-                        android:text="D-CET PAPERS"
+                        android:text="QUESTION PAPERS"
                         android:textColor="#8600FF"
                         android:textSize="16sp"
                         android:textStyle="bold" />
