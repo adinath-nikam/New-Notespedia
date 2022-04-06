@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".StartupViewActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:elevation="10dp"
+        app:title="STORIES" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/Lightblue"/>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/startup_header_cardview_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/startup_header_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:padding="15dp"
+            android:text="Top 5 Start ups of India"
+            android:textColor="@color/black"
+            android:textSize="32sp"
+            android:textStyle="bold" />
+
+    </androidx.cardview.widget.CardView>
+
+    <RelativeLayout
+        android:id="@+id/post_editor_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_below="@id/startup_header_cardview_id">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/editor_pic"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/profile_image"/>
+
+        <TextView
+            android:id="@+id/editor_name_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Editor"
+            android:layout_toRightOf="@id/editor_pic"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/edit_date_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Editor"
+            android:layout_toRightOf="@id/editor_pic"
+            android:layout_below="@id/editor_name_id"
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/sp_RecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/post_editor_id"
+        android:padding="5dp"/>
+
+</LinearLayout>

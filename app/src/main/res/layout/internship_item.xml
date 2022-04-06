@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/Lightblue"
+        >
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="1dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/intern_IMG_id"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/logo"/>
+
+            <LinearLayout
+                android:id="@+id/divider"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/gradient"
+                android:layout_below="@id/intern_IMG_id"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:id="@+id/intern_name_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Company Name.."
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:layout_below="@id/divider"/>
+
+            <ImageView
+                android:id="@+id/skills_ic_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/intern_name_id"
+                android:src="@drawable/skill_ic"
+                android:layout_marginTop="5dp"/>
+
+
+            <TextView
+                android:id="@+id/tv_skills_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="C++, JAVA etc."
+                android:layout_toRightOf="@id/skills_ic_id"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/red"
+                android:layout_below="@id/intern_name_id"/>
+
+
+            <ImageView
+                android:id="@+id/phone_ic_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_skills_id"
+                android:src="@drawable/phone_ic"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:id="@+id/tv_phone_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" - 123456789"
+                android:textColor="@color/blue"
+                android:layout_below="@id/tv_skills_id"
+                android:layout_toRightOf="@id/phone_ic_id"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp"/>
+
+
+            <ImageView
+                android:id="@+id/mail_ic_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/phone_ic_id"
+                android:src="@drawable/email_ic"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:id="@+id/tv_mail_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" - mail@gmail.com"
+                android:layout_below="@id/phone_ic_id"
+                android:layout_toRightOf="@id/mail_ic_id"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/blue"
+                android:layout_marginLeft="5dp"/>
+
+            <ImageView
+                android:id="@+id/hrs_ic_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_mail_id"
+                android:src="@drawable/hrs_ic"
+                android:layout_marginTop="10dp"/>
+
+            <TextView
+                android:id="@+id/tv_hrs_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" - 52HRS"
+                android:layout_below="@id/tv_mail_id"
+                android:layout_toRightOf="@id/hrs_ic_id"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/green"
+                android:layout_marginLeft="5dp"/>
+
+
+            <ImageView
+                android:id="@+id/url_ic_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/hrs_ic_id"
+                android:src="@drawable/url_ic"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:id="@+id/tv_url_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" - www.example.com"
+                android:layout_below="@id/tv_hrs_id"
+                android:layout_toRightOf="@id/url_ic_id"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/blue"
+                android:layout_marginLeft="5dp"/>
+
+            <ImageView
+                android:id="@+id/place_ic_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/url_ic_id"
+                android:src="@drawable/place_id"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:id="@+id/tv_place_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" - New York"
+                android:layout_below="@id/tv_url_id"
+                android:layout_toRightOf="@id/place_ic_id"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="10dp"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+</RelativeLayout>

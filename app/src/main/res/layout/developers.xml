@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/dev_layout"
+    android:padding="25dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shoot us Query"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/adi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\tAdinath Nikam"
+        android:textSize="20sp"
+        android:textColor="#009688"/>
+
+
+        <ImageView
+            android:id="@+id/adi_msg"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/insta_ic"
+            android:layout_alignParentRight="true"/>
+
+
+    <TextView
+        android:id="@+id/om"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\tOmkar Pawar"
+        android:layout_below="@+id/adi"
+        android:textSize="20sp"
+        android:layout_marginTop="15dp"
+        android:textColor="#009688"/>
+
+        <ImageView
+            android:id="@+id/om_msg"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_below="@id/adi_msg"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/insta_ic"
+            android:layout_alignParentRight="true"/>
+
+    <TextView
+        android:id="@+id/deep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\tDeepak Bhadagaonkar"
+        android:layout_below="@id/om"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"
+        android:textColor="#009688"/>
+
+        <ImageView
+            android:id="@+id/deep_msg"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_below="@id/om_msg"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/insta_ic"
+            android:layout_alignParentRight="true"/>
+
+
+    <TextView
+        android:id="@+id/ashi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\tAshitosh Deshnur"
+        android:layout_below="@id/deep"
+        android:textSize="20sp"
+        android:layout_marginTop="15dp"
+        android:textColor="#009688"/>
+
+        <ImageView
+            android:id="@+id/ashi_msg"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_below="@id/deep_msg"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/insta_ic"
+            android:layout_alignParentRight="true"/>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

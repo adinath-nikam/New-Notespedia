@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/bus_cardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardElevation="5dp"
+        app:cardBackgroundColor="@color/colorPrimary"
+        app:cardCornerRadius="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="82dp"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:id="@+id/bus_iv"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:src="@drawable/bus_ic"/>
+
+            <TextView
+                android:id="@+id/bus_no"
+                android:layout_width="65dp"
+                android:layout_height="wrap_content"
+                android:text="7"
+                android:layout_gravity="center"
+                android:textSize="36sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginLeft="32dp"
+                android:textColor="@color/white"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

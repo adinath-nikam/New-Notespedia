@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/Lightblue"
+    android:layout_marginTop="15dp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/RoyalBlue"
+        android:layout_margin="1dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/clg_pic"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/logo"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/clg_ic"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:src="@drawable/clg_ic"/>
+
+            <TextView
+                android:id="@+id/clg_name_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="College Name"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/clg_ic"/>
+
+            <ImageView
+                android:id="@+id/clg_dept_ic"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_below="@id/clg_ic"
+                android:src="@drawable/dept_ic"/>
+
+            <TextView
+                android:id="@+id/clg_dept_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="College Dept"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@id/clg_name_id"
+                android:layout_toRightOf="@id/clg_ic"/>
+
+            <ImageView
+                android:id="@+id/clg_ph_ic"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_below="@id/clg_dept_ic"
+                android:src="@drawable/phone_ic"/>
+
+            <TextView
+                android:id="@+id/clg_ph_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="College Phone"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@id/clg_dept_id"
+                android:layout_toRightOf="@id/clg_ph_ic"/>
+
+
+            <ImageView
+                android:id="@+id/clg_email_ic"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_below="@id/clg_ph_ic"
+                android:src="@drawable/email_ic"/>
+
+            <TextView
+                android:id="@+id/clg_email_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="College Email"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@id/clg_ph_id"
+                android:layout_toRightOf="@id/clg_email_ic"/>
+
+            <ImageView
+                android:id="@+id/clg_rating_ic"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_below="@id/clg_email_ic"
+                android:src="@drawable/rating_ic"/>
+
+            <TextView
+                android:id="@+id/clg_rating_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="College Rating"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@id/clg_email_id"
+                android:layout_toRightOf="@id/clg_rating_ic"/>
+
+            <ImageView
+                android:id="@+id/clg_url_ic"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_below="@id/clg_rating_ic"
+                android:src="@drawable/url_ic"/>
+
+            <TextView
+                android:id="@+id/clg_url_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="College Rating"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@id/clg_rating_id"
+                android:layout_toRightOf="@id/clg_url_ic"/>
+
+            <ImageView
+                android:id="@+id/clg_place_ic"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_below="@id/clg_url_ic"
+                android:src="@drawable/place_id"/>
+
+            <TextView
+                android:id="@+id/clg_place_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="College Rating"
+                android:textSize="18sp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@id/clg_url_id"
+                android:layout_toRightOf="@id/clg_place_ic"/>
+
+        </RelativeLayout>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    </RelativeLayout>
+
+</LinearLayout>

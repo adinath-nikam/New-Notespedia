@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".StudentPortal"
+    android:background="@drawable/gradient"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/SP_header_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Hey, Adi \nwe got something special for your"
+        android:textColor="@color/white"
+        android:layout_marginBottom="15dp"
+        android:fontFamily="@font/actor"
+        android:textSize="22sp"/>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/internships_id"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/SP_header_id"
+        android:layout_alignParentLeft="true"
+        app:cardCornerRadius="20dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_gravity="center">
+
+        <ImageView
+            android:id="@+id/intern_card_id"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/intern_ic"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="INTERNSHIPS"
+            android:gravity="center"
+            android:layout_below="@id/intern_card_id"
+            android:textStyle="bold"
+            android:textColor="@color/red"
+            android:textSize="16sp"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/college_card_id"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/SP_header_id"
+        android:layout_alignParentRight="true"
+        app:cardCornerRadius="20dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/college_ic"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/college_ic"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BEST COLLEGES"
+                android:gravity="center"
+                android:layout_below="@id/college_ic"
+                android:textStyle="bold"
+                android:textColor="@color/red"
+                android:textSize="16sp"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/startup_card_id"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/internships_id"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="15dp"
+        app:cardCornerRadius="20dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/startup_ic"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/startup_ic"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="STORIES"
+                android:gravity="center"
+                android:layout_below="@id/startup_ic"
+                android:textStyle="bold"
+                android:textColor="@color/Lightblue"
+                android:textSize="16sp"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/job_card_id"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@id/college_card_id"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="15dp"
+        app:cardCornerRadius="20dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_gravity="center">
+
+            <ImageView
+                android:id="@+id/job_ic"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentLeft="true"
+                android:src="@drawable/job_ic"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="FIND JOBS"
+                android:gravity="center"
+                android:layout_below="@id/job_ic"
+                android:textStyle="bold"
+                android:textColor="@color/Lightblue"
+                android:textSize="16sp"/>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+
+
+
+
+</RelativeLayout>

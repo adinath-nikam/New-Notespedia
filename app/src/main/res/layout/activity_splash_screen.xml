@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/splash"
+    tools:context=".SplashScreen">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logo"
+        android:layout_marginBottom="15dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="150dp"/>
+
+    <TextView
+        android:id="@+id/app_name_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/logo"
+        android:text="NOTESPEDIA"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/actor"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/app_name_id"
+        android:text="--- EDUCATE TO ELEVATE ---"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/actor"
+        android:layout_marginTop="5dp"
+        android:gravity="center"/>
+
+</RelativeLayout>
