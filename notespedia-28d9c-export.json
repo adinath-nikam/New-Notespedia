@@ -1,0 +1,1727 @@
+{
+  "ABOUT" : {
+    "Mail" : "sample@sample.com",
+    "Phone" : "9113910407",
+    "Text" : "Notespedia is the only Educational platform where all the diploma students get there daily Edu material such as Notes, Lab Manuals, Question papers Etc."
+  },
+  "BRANCHES" : {
+    "COMPUTER SCIENCE AND ENGINEERING" : {
+      "1ST SEMESTER" : {
+        "-Ly2vPId_dggEcINMwPp" : {
+          "Date" : "Jan 08, 2020",
+          "Message" : "ccc",
+          "Name" : "adinath",
+          "PicUrl" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/b1V7dAKZm4Z4bqfq86q0wtoTnaa2%2FImages%2FProfile%20Pic?alt=media&token=22cbfdac-8106-4a28-96ac-ee1c8ee92439",
+          "Time" : "12:23 PM",
+          "Uid" : "b1V7dAKZm4Z4bqfq86q0wtoTnaa2"
+        }
+      },
+      "6TH SEMESTER" : {
+        "-LzHMRSJgFwvQASbeowG" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : " hhh",
+          "Name" : "unknown",
+          "Time" : "05:55 PM",
+          "Uid" : "BXPWqwQuqORhssyNILewV6GmQi03"
+        },
+        "-LzHOa8SlhmwmaBfO6Zi" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "Yusuf",
+          "Name" : "unknown",
+          "Time" : "06:05 PM",
+          "Uid" : "BXPWqwQuqORhssyNILewV6GmQi03"
+        },
+        "-LzHOgIl3Vt-X9dQ7j7S" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "hhj",
+          "Name" : "qqq",
+          "Time" : "06:05 PM",
+          "Uid" : "BXPWqwQuqORhssyNILewV6GmQi03"
+        },
+        "-LzHPD25iC_f10VXbW_d" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "iii",
+          "Name" : "qqq",
+          "Time" : "06:08 PM",
+          "Uid" : "BXPWqwQuqORhssyNILewV6GmQi03"
+        },
+        "-LzHPDqaIE-TPWvowHvB" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "Hitesh",
+          "Name" : "qqq",
+          "Time" : "06:08 PM",
+          "Uid" : "BXPWqwQuqORhssyNILewV6GmQi03"
+        },
+        "-LzHPEJkVH8T_i34N1B9" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "co",
+          "Name" : "qqq",
+          "Time" : "06:08 PM",
+          "Uid" : "BXPWqwQuqORhssyNILewV6GmQi03"
+        },
+        "-LzHPi7dg1jQX1NoKe0W" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "bug",
+          "Name" : "qqq",
+          "Time" : "06:10 PM",
+          "Uid" : "BXPWqwQuqORhssyNILewV6GmQi03"
+        },
+        "-LzHPzfJSfNox_9YJEls" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "jjji",
+          "Name" : "qqq",
+          "Time" : "06:11 PM",
+          "Uid" : "BXPWqwQuqORhssyNILewV6GmQi03"
+        },
+        "-LzHQKF06jAfeHEPBGTv" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "hu iPhone",
+          "Name" : "12345678",
+          "Time" : "06:12 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHVS_zDVk6Owkr7D3m" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "h",
+          "Name" : "12345678",
+          "Time" : "06:35 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHW5UX68y2JMCAPrB7" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "nj",
+          "Name" : "12345678",
+          "Time" : "06:38 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHWLKQ79f4eeUfmj_e" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "hhh",
+          "Name" : "12345678",
+          "Time" : "06:39 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHWQ3S1nb8RQke7XdY" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "yyu",
+          "Name" : "12345678",
+          "Time" : "06:39 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHW_ePLJzOLkrTm3Le" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "jjjj",
+          "Name" : "12345678",
+          "Time" : "06:40 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHZ0it5qldIIfpB9ek" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "xcf",
+          "Name" : "12345678",
+          "Time" : "06:50 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHZ1sHMXpw0oq76D0W" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "1",
+          "Name" : "12345678",
+          "Time" : "06:51 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHZ2UEyDvBYyloIb8W" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "2",
+          "Name" : "12345678",
+          "Time" : "06:51 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHZ3ogl3STQ1FP3uig" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "6",
+          "Name" : "12345678",
+          "Time" : "06:51 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzH_iyEcSJGhR-4qxUI" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "jj",
+          "Name" : "12345678",
+          "Time" : "06:58 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzH_tPR7NY1UVYxPrEI" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : ".iooooooo",
+          "Name" : "12345678",
+          "Time" : "06:59 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHc0YHoekpZ_5iXKI5" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "uuu",
+          "Name" : "12345678",
+          "Time" : "07:08 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHc17ScAuSjRw980yk" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "r",
+          "Name" : "12345678",
+          "Time" : "07:08 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHc20YzI3CdFAqHydX" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "qwww",
+          "Name" : "12345678",
+          "Time" : "07:08 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHc3em7RKveEISJq0G" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "1235",
+          "Name" : "12345678",
+          "Time" : "07:08 PM",
+          "Uid" : "jBlPtabgIAagbRBzF8ebUCHaajJ3"
+        },
+        "-LzHdSQiVe6iUtpzT9CY" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "1",
+          "Name" : "1",
+          "Time" : "07:14 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzHdTXB8QwR0V6_bNUS" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "2",
+          "Name" : "1",
+          "Time" : "07:14 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzHeiPlO3tSDcxYuKdH" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "d",
+          "Name" : "1",
+          "Time" : "07:20 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzHf3lSjBEDrVXGOvfq" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "457i",
+          "Name" : "1",
+          "Time" : "07:21 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzHnBZ-alCRG4oAxPJS" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "rrt",
+          "Name" : "1",
+          "Time" : "07:57 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzHnDrxMgzXU2IZ-m9N" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : " nk",
+          "Name" : "1",
+          "Time" : "07:57 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzHnIglu-03YUWKPnkN" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "jjjj",
+          "Name" : "1",
+          "Time" : "07:57 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzHtStIKt9hIWR0jA_t" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "👉",
+          "Name" : "1",
+          "Time" : "08:24 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzI2org6kc4RYuvmNcx" : {
+          "Date" : "Jan 23, 2020",
+          "Message" : "hello ",
+          "Name" : "1",
+          "Time" : "09:09 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzLv6AcXjrp1qoNRuQb" : {
+          "Date" : "Jan 24, 2020",
+          "Message" : "rrt d",
+          "Name" : "1",
+          "Time" : "03:10 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzLv7iruAhuzDvshC0d" : {
+          "Date" : "Jan 24, 2020",
+          "Message" : "gugur",
+          "Name" : "1",
+          "Time" : "03:10 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzLvCqX2fmRswVSwwFh" : {
+          "Date" : "Jan 24, 2020",
+          "Message" : "rcg",
+          "Name" : "1",
+          "Time" : "03:10 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzNS5hbVtWU18VSw0sj" : {
+          "Date" : "Jan 24, 2020",
+          "Message" : "yyuu",
+          "Name" : "1",
+          "Time" : "10:18 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzNSh8qKNwHSDwBfDwh" : {
+          "Date" : "Jan 24, 2020",
+          "Message" : "jjja",
+          "Name" : "#Lucifer",
+          "PicUrl" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Bdlxr0nX8sYchxsJ124znYnzxnd2%2FImages%2FProfile%20Pic?alt=media&token=6e7c46e0-abea-4595-854f-a58e9269c665",
+          "Time" : "10:21 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzNSmNgnBczMK7ZXsB5" : {
+          "Date" : "Jan 24, 2020",
+          "Message" : "#admin",
+          "Name" : "#Lucifer",
+          "PicUrl" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Bdlxr0nX8sYchxsJ124znYnzxnd2%2FImages%2FProfile%20Pic?alt=media&token=6e7c46e0-abea-4595-854f-a58e9269c665",
+          "Time" : "10:21 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzNSr2otrbkxnmvZ-fO" : {
+          "Date" : "Jan 24, 2020",
+          "Message" : "jnana",
+          "Name" : "C.E.O",
+          "PicUrl" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Bdlxr0nX8sYchxsJ124znYnzxnd2%2FImages%2FProfile%20Pic?alt=media&token=6e7c46e0-abea-4595-854f-a58e9269c665",
+          "Time" : "10:21 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzSOeRwQ-dHV547qFwQ" : {
+          "Date" : "Jan 25, 2020",
+          "Message" : "sss",
+          "Name" : "C.E.O",
+          "PicUrl" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Bdlxr0nX8sYchxsJ124znYnzxnd2%2FImages%2FProfile%20Pic?alt=media&token=6e7c46e0-abea-4595-854f-a58e9269c665",
+          "Time" : "09:21 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzWxQuPZLiYMy8qgQTb" : {
+          "Date" : "Jan 26, 2020",
+          "Message" : "hu",
+          "Name" : "C.E.O",
+          "PicUrl" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Bdlxr0nX8sYchxsJ124znYnzxnd2%2FImages%2FProfile%20Pic?alt=media&token=6e7c46e0-abea-4595-854f-a58e9269c665",
+          "Time" : "06:36 PM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzjsRoTjdf2GFGaSSle" : {
+          "Date" : "Jan 29, 2020",
+          "Message" : "hh",
+          "Name" : "Lucifer",
+          "PicUrl" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Bdlxr0nX8sYchxsJ124znYnzxnd2%2FImages%2FProfile%20Pic?alt=media&token=9d2642c2-5429-4ed5-a11b-b532bf3cd067",
+          "Time" : "11:29 AM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        },
+        "-LzjsSeF3Nsdg1upvibz" : {
+          "Date" : "Jan 29, 2020",
+          "Message" : "5",
+          "Name" : "Lucifer",
+          "PicUrl" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Bdlxr0nX8sYchxsJ124znYnzxnd2%2FImages%2FProfile%20Pic?alt=media&token=9d2642c2-5429-4ed5-a11b-b532bf3cd067",
+          "Time" : "11:29 AM",
+          "Uid" : "Bdlxr0nX8sYchxsJ124znYnzxnd2"
+        }
+      }
+    },
+    "ELECTRICAL AND ELECTRONICS ENGINEERING" : {
+      "1ST SEMESTER" : {
+        "-Ly2pbRN_AIcAyY56BAN" : {
+          "Date" : "Jan 08, 2020",
+          "Message" : "hello",
+          "Name" : "om",
+          "Time" : "11:57 AM",
+          "Uid" : "laz40cFdg4MIb3gEkV6QYpQFKLK2"
+        }
+      }
+    },
+    "MECHANICAL ENGINEERING" : {
+      "4TH SEMESTER" : {
+        "-LyrXylvJdqWS04Hwoyl" : {
+          "Date" : "Jan 18, 2020",
+          "Message" : "yygg",
+          "Name" : "778",
+          "Time" : "12:56 PM",
+          "Uid" : "CjB3X79A4mYqzcd3N1qIX4AQW9g2"
+        }
+      }
+    }
+  },
+  "COLLEGES" : {
+    "ENGINEERING" : {
+      "EC1" : {
+        "CLG_DEPT" : "DEPARTMENTS",
+        "CLG_EMAIL" : "EMAI",
+        "CLG_IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+        "CLG_NAME" : "COLLEGE NAME",
+        "CLG_PH" : "PHONE NO.",
+        "CLG_PLACE" : "ADDRESS",
+        "CLG_RATING" : "RATING",
+        "CLG_URL" : "URL"
+      }
+    },
+    "POLYTECHNIC" : {
+      "PC1" : {
+        "CLG_DEPT" : "DEPARTMENTS",
+        "CLG_EMAIL" : "EMAIL",
+        "CLG_IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+        "CLG_NAME" : "COLLEGE NAME",
+        "CLG_PH" : "PHONE NO.",
+        "CLG_PLACE" : "ADDRESS",
+        "CLG_RATING" : "RATING",
+        "CLG_URL" : "URL"
+      }
+    }
+  },
+  "DEVELOPERS" : {
+    "ADINATH" : "https://www.instagram.com",
+    "ASHITOSH" : "https://www.instagram.com",
+    "DEEPAK" : "https://www.instagram.com",
+    "OMKAR" : "https://www.GOOGLE.com"
+  },
+  "EXAM RESULT URL" : {
+    "URL" : "http://www.bteresults.net/MyResults.aspx"
+  },
+  "EXAM SCHEDULES" : {
+    "url" : "https://drive.google.com/open?id=1Ad2E3GCO4x_OHNe8kRsfsMqh4SRADFow"
+  },
+  "INTERNSHIPS" : {
+    "COMPUTER SCIENCE AND ENGINEERING" : {
+      "I1" : {
+        "IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+        "INTERN_ADDRESS" : "New York, USA",
+        "INTERN_COMPANY" : "Notespedia.inc",
+        "INTERN_EMAIL" : "adinathanikam@gmail.com",
+        "INTERN_HRS" : "52HRS",
+        "INTERN_PH" : "9113910407",
+        "INTERN_SKILLS" : "C, C++, JAVA",
+        "INTERN_URL" : "https://www.google.com"
+      }
+    }
+  },
+  "JOBS" : {
+    "COMPUTER SCIENCE AND ENGINEERING" : {
+      "J1" : {
+        "CMP_CALL" : "9113910409",
+        "CMP_CAT" : "Software Engg.",
+        "CMP_IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+        "CMP_MAIL" : "sample@sample.com",
+        "CMP_NAME" : "Notespedia",
+        "CMP_URL" : "https://google.com"
+      },
+      "J2" : {
+        "CMP_CALL" : "9113910407",
+        "CMP_CAT" : "Software Engg.",
+        "CMP_IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+        "CMP_MAIL" : "SAMPLE@SAMPLE.COM",
+        "CMP_NAME" : "yahoo.inc",
+        "CMP_URL" : "https://yahoo.com"
+      }
+    },
+    "MECHANICAL ENGINEERING" : {
+      "J1" : {
+        "CMP_NAME" : "SAMPLE"
+      }
+    }
+  },
+  "NOTICE" : {
+    "MOTICHAND LENGADE BHARATESH POLYTECHNIC" : {
+      "NOtice 3" : {
+        "notice_content" : "hello world",
+        "notice_date" : "26 jan 2001",
+        "notice_sender" : "Admin"
+      },
+      "Notice2" : {
+        "notice_content" : "hello world",
+        "notice_date" : "29 April, 2020",
+        "notice_sender" : "Admin"
+      }
+    }
+  },
+  "QUESTION PAPERS" : {
+    "AUTOMOBILE ENGINEERING" : {
+      "1ST SEMESTER" : "",
+      "2ND SEMESTER" : "",
+      "3RD SEMESTER" : "",
+      "4TH SEMESTER" : "",
+      "5TH SEMESTER" : "",
+      "6TH SEMESTER" : ""
+    },
+    "CIVIL ENGINEERING" : {
+      "1ST SEMESTER" : "",
+      "2ND SEMESTER" : "",
+      "3RD SEMESTER" : "",
+      "4TH SEMESTER" : "",
+      "5TH SEMESTER" : "",
+      "6TH SEMESTER" : "",
+      "D-CET" : "https://drive.google.com/open?id=1MTpt20C_YrWU1EidBWDUBhCEATPtmL4i"
+    },
+    "COMPUTER SCIENCE AND ENGINEERING" : {
+      "1ST SEMESTER" : "",
+      "2ND SEMESTER" : "",
+      "3RD SEMESTER" : "",
+      "4TH SEMESTER" : "",
+      "5TH SEMESTER" : "https://drive.google.com/open?id=1DG0f4p5mEQXgmQ7N_Hjgx0Ku4h4yW1Dn",
+      "6TH SEMESTER" : "https://drive.google.com/open?id=19qzj5m39hkAtUkp9JTddYT-_jrgHzq-i",
+      "D-CET" : "https://drive.google.com/open?id=1MzWZovtiocOTNkYyNmIVriNzvk7UeUtK"
+    },
+    "ELECTRICAL AND ELECTRONICS ENGINEERING" : {
+      "1ST SEMESTER" : "",
+      "2ND SEMESTER" : "",
+      "3RD SEMESTER" : "",
+      "4TH SEMESTER" : "",
+      "5TH SEMESTER" : "",
+      "6TH SEMESTER" : "",
+      "D-CET" : "https://drive.google.com/open?id=1RIUB33kpIOHvigrfny_QSv93p8SHyaR_"
+    },
+    "ELECTRONICS AND COMMUNICATION ENGINEERING" : {
+      "1ST SEMESTER" : "",
+      "2ND SEMESTER" : "",
+      "3RD SEMESTER" : "",
+      "4TH SEMESTER" : "",
+      "5TH SEMESTER" : "",
+      "6TH SEMESTER" : "",
+      "D-CET" : "https://drive.google.com/open?id=1nhuEnUBSQ22SclngCdJf23qzfXiGFZWU"
+    },
+    "MECHANICAL ENGINEERING" : {
+      "1ST SEMESTER" : "",
+      "2ND SEMESTER" : "",
+      "3RD SEMESTER" : "",
+      "4TH SEMESTER" : "",
+      "5TH SEMESTER" : "",
+      "6TH SEMESTER" : "",
+      "D-CET" : "https://drive.google.com/open?id=1m1rSyIDiGvjVOKZ9oGxehJ9gTSR4srCv"
+    },
+    "MECHATRONICS ENGINEERING" : {
+      "1ST SEMESTER" : "",
+      "2ND SEMESTER" : "",
+      "3RD SEMESTER" : "",
+      "4TH SEMESTER" : "",
+      "5TH SEMESTER" : "",
+      "6TH SEMESTER" : ""
+    }
+  },
+  "SCHOLARSHIP URL" : {
+    "URL" : "https://karepass.cgg.gov.in/"
+  },
+  "SCHOLARSHIPS" : {
+    "SC_1" : {
+      "SC_AMOUNT" : "10000RS - 25000RS",
+      "SC_CATEGORY" : "Hindu, Muslim, SC & ST",
+      "SC_DESC" : "Notespedia providing a scholarship for those who didnt get scholarship once in thier life time",
+      "SC_EXPIRY" : "31st Feb 2020",
+      "SC_IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+      "SC_NAME" : "Notespedia.inc",
+      "SC_URL" : "https://www.notespedia.com"
+    },
+    "SC_2" : {
+      "SC_NAME" : "dfghjkl",
+      "SC_URL" : "https://www.yahoo.com"
+    }
+  },
+  "SHARE" : {
+    "SHARE BODY" : "Body",
+    "SHARE SUB" : "hello world"
+  },
+  "SPINNER COLLEGES" : {
+    "CLG_NAME" : "Select College",
+    "CLG_NAME1" : "MOTICHAND LENGADE BHARATESH POLYTECHNIC"
+  },
+  "START UPS" : {
+    "START UP HEADER" : {
+      "POST_EDITOR_IMG" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/startup%20images%2Ftriangle_inverted_black_white_92770_1920x1080.jpg?alt=media&token=84972ed4-40e9-444b-8f09-b99b400fe2a1",
+      "POST_EDITOR_NAME" : "Adinath Nikam",
+      "POST_EDIT_DATE" : "31, Jan 2020",
+      "POST_HEADER" : "Top 5 Startup Ideas."
+    },
+    "STARTUP STORIES" : {
+      "SS1" : {
+        "STARTUP_DESC" : "Sample",
+        "STARTUP_IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+        "STARTUP_TITLE" : "Sample"
+      },
+      "SS2" : {
+        "STARTUP_DESC" : "Sample",
+        "STARTUP_IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+        "STARTUP_TITLE" : "Sample"
+      },
+      "SS3" : {
+        "STARTUP_DESC" : "TEST",
+        "STARTUP_IMG_URL" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Scholarship%20Images%2Flogo.png?alt=media&token=9131ea73-1c7c-4311-b32b-a85b3e4a6ed3",
+        "STARTUP_TITLE" : "TEST"
+      }
+    }
+  },
+  "SYLLABUS" : {
+    "AUTOMOBILE ENGINEERING" : {
+      "1ST SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CP01E - Communication Skills In English",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC01M - Engineering Mathematics – I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15AT11T - Automobile Engineering - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME12D - Engineering Graphics - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15AT12P - Basic Computer Skills Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15AT13P - Automobile Engineering Lab - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "2ND SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15SC02M - Engineering Mathematics – II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC03S - Applied Science",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15AT21T - Automobile Engineering - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME21D - Engineering Graphics - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15SC04P - Applied Science Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15AT22P - Automobile Engineering Lab - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "3RD SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15ME31T - Strength Of Materials",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15AT31T - Heat Power Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15ME05T - Mechanical Work Shop Technology",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15AT32T - Automobile Transmission & Control Systems",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15AT33P - AT & CS Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15ME37P - Mechanical Testing & Quality Control Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15ME46P - Machine Shop",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3NT - Kannada Kali - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3KT - Tantrika Kannada - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "4TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15AT41T - Fluid Power Transmission And Control Systems",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME32T - Mechanics Of Machines",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15AT42T - Automobile Electrical & Electronics systems",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME44T - Professional Ethics & Indian Constitution",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15AT43P - Computer Aided Assembly Drawing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15AT44P - Automobile Electrical & Electronics System lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15ME06P - Mechanical Work Shop Practice",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4NT - Kannada Kali - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4KT - Tantrika Kannada - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "5TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15AT51T - Transport & Industrial Management",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15AT52T - Advanced Automotive Systems",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15AT53T - Design Of Machine Elements",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4.1. 15AT54A - Farm Tractors & Construction Equipments",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15AT56P - Advanced Automobile Systems Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15AT57P - Professional Practices",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15AT58P - Project Work - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "6TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15AT61T - Automotive Mechanics",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15AT62T - Automotive Electronics",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15AT63T - Engine Maintenance & Estimation",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15AT64P - Engine Testing Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15AT65P - Engine Recondition Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15AT66P - Project Work - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15AT67P - Inplant Training (Automobile Stream)",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ]
+    },
+    "CIVIL ENGINEERING" : {
+      "1ST SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CP01E - Communication Skills In English",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC01M - Engineering Mathematics - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CE11T - Materials Of Construction",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15CE12D - Engineering Drawing - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CE13P - Basic Computer Skills Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CE14P - Materials Of Construction Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "2ND SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15SC02M - Engineering Mathematics - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC03S - Applied Science",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CE21T - Surveying - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME21D - Engineering Drawing - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15SC04P - Applied Science Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CE23P - Surveying Practice - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "3RD SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CE31T - Engineering Mechanics & Strength Of Materials",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CE32T - Water Supply Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CE33T - Surveying – II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15CE34T - Construction Technology",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CE35D - Building Planning & Drawing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CE36P - Surveying Practice - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15CE37P - Basic CAD In Civil Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3NT - Kannada Kali - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3NT - Tantrika Kannada - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "4TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CE41T - Hydraulics",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CE42T - Sanitary Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CE43T - Concrete Technology",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15CE44T - Professional Ethics & Indian Constitution",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CE45P - Soil & Material Testing Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CE46P - CAB Planning & Drawing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15CE47P - Hydraulics & Environmental Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4NT - Kannada Kali - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4KT - Tantrika Kannada - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "5TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CE51T - Design Of Reinforced Cement Concrete",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CE52T - Water Resources Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CE53T - Estimation & Costing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15CE54T - Transportation Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CE55D - Irrigation And Bridge Drawing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CE56P - Construction Practice",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15CE57P - Professional Practice",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15CE58P - Project Work - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "6TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CE61T - Design Of Steel & Masonary Structures",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CE62T - Project Management & Valuation",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CE63F - Environmental Impact Assessment",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15CE64P - Computer Application Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CE65P - Extensive Survey Camp/Project",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CE66P - Project Work - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15CE67P - In-Plant Training",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ]
+    },
+    "COMPUTER SCIENCE AND ENGINEERING" : {
+      "1ST SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15SC01M - Engineering Mathematics I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC03S - Applied Science",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EC01T - Concept of Electrical & Electronics Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15SC04P - Applied Science Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EC02P - Basic Electronics Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CS11P - Basic Computer Skills Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "2ND SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15SC02M - Engineering Mathematics II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CP01E - Communication Skills in English",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CS21T - Digital & Computer Fundamentals",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EC03P - Digital Electronics Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CS22P - Basic Web Design Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CS23P - Multimedia Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "3RD SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CS31T - Programming with C",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CS32T - Computer Organization",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CS33T - Database Management Systems",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15CS34T - Computer Network",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CS35P - Programming with C lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CS36P - DBMS and GUI lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15CS37P - Network Administration lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3NT - Kannada Kali - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3KT - Tantrika Kannada - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "4TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CS41T - Data Structures using C",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CS42T - OOP With Java",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CS43T - Operationg System",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15CS44T - Professional Eithics & Indian Constitution",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CS45P - Data Structures using C Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CS46P - OOP With Java Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15CS47P - Linux Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4NT - Kannada Kali - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4KT - Tantrika Kannada - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "5TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CS51T - Software Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CS52T - Web Programming",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15CS53T - Design and Analysis of Algorithms",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15CS54T - Green Computing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15CS55P - Web Programming Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15CS56P - Design and Analysis of Algorithms Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15CS57P - Professional Practices (Computer Science)",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15CS58P - Project Work Phase - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "6TH SEMESTER" : [ null, {
+        "CHAPTER" : "1.  - Software Testing",
+        "LINK" : "https://drive.google.com/open?id=1g-X0a2FRYvt-gX-DOzlIbr50qfzZl0TT"
+      }, {
+        "CHAPTER" : "2. 15CS62T - Network Security & Management",
+        "LINK" : "https://drive.google.com/open?id=16rKHnjJxMee74PyB3Lo4dGqHm5kkvLmg"
+      }, {
+        "CHAPTER" : "3. 15CS63B - Cloud Computing",
+        "LINK" : "https://drive.google.com/open?id=1vpZrbQaVb4D8FMo4FDhdB1hDBj4sMPJ3"
+      }, {
+        "CHAPTER" : "4. 15CS64P - Software Testing Lab",
+        "LINK" : "https://drive.google.com/open?id=1yvMTg3uTi6viinOBIBBY3jcDKB5K8uCv"
+      }, {
+        "CHAPTER" : "5. 15CS65P - Network Security Lab",
+        "LINK" : "https://drive.google.com/open?id=1DDVt1D9cJad2J4kA-ql_9ZhdDq532yuV"
+      }, {
+        "CHAPTER" : "6. 15CS66P - Soft Skills for IT Professionals",
+        "LINK" : "https://drive.google.com/open?id=1pDd2CLcMWkpCtN0Q9hChD0jjpvYlo5kS"
+      }, {
+        "CHAPTER" : "7. 15CS67P - Project Work- II",
+        "LINK" : "https://drive.google.com/open?id=1eyKdOF_nGU_OgiMv8EOhH4HkruUgsXND"
+      } ]
+    },
+    "ELECTRICAL AND ELECTRONICS ENGINEERING" : {
+      "1ST SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15SC03S - Applied Science",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC01M - Engineering Mathematics – I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EE11T - Elements Of Electrical Engg",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15SC04P - Applied Science Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EE12P - Electrical Wiring Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EE13P - Basic Computer Skills Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "2ND SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CP01E - Communication Skills In English",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC02M - Engineering Mathematics – II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EE21T - Electrical Circuits",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME01D - Engineering Drawing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EE22P - Electrical Circuits Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EE23P - C Programming Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "3RD SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15EE31T - DC Machines & Alternators",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15EE32T - Electrical Power Generation",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EE33T - Analog Electronics",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EE34T - Digital Electronics",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EE35P - DC Machines & Alternators Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EE36P - Analog & Digital Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15EE37P - Circuits Simulation Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3NT - Kannada Kali - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3NT - Tantrika Kannada - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "4TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15EE41T - Transformers & AC Motors",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15EE42T - Electrical Measurements & Measuring Instruments",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EE43T - Communication & Computer Networks",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EE44T - Professional Ethics & Indian Constitution",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EE45P - Transformers & AC Motors Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EE46P - Electrical Measurement & Measuring Instmts., Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15EE47P - Computer Aided Electrical Drafting",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4NT - Kannada Kali - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4KT - Tantrika Kannada - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "5TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15EE51T - Power Electronics",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15EE52T - Transmision Distribution & Utilisation",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EE53T - Switchgear & Protection",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EE54T - Electrical Estimation & Costing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EE55P - Power Electronics Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EE56P - Protective Relays & Servicing Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15EE57P - Estimation Simulation Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15EE58P - Project Work - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "6TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15EE61T - Industrial Drives & Control",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15EE62T - Basic Management Skills & Energy Management",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3.2. 15EE63B - Testing, Maintenance & Control Of Substation",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EE64P - Motor Controland PLC Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EE65P - Professional Practice Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EE66P - Project Work - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15EE67P - Inplant Training",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ]
+    },
+    "ELECTRONICS AND COMMUNICATION ENGINEERING" : {
+      "1ST SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15SC01M - Engineering Mathematics I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC03S - Applide Science",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EC11T - Basics of Electrical and Electronics Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15SC04P - Applide Science Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EC12P - Basics of Electrical & Electronic Engineering Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EC13P - Concepts of Computer Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "2ND SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15SC02M - Engineering Mathematics II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15CP01E - Communication Skills In English",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EC21T - Basics of Semiconductor Devices",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EC22P - Semiconductor Devices Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EC23P - Digital Electronics Lab - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EC24P - Mathematical Simulation Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "3RD SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15EC31T - Analog Electronics Circuits",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15EC32T - Digital Electronics",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EC33T - Analog Communication",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EC34T - Electronic Measurements and Instrumentation",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EC35P - Analog Electronics and Communication Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EC36P - Digital Electronics Lab - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15EC37P - C Programming Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3NT - Kannada Kali - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3KT - Tantrika Kannada - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "4TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15EC41T - Professional Ethics & Indian Constitution",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15EC42T - Microcontroller & Applications",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EC43T - Digital Communication",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EC44T - Data Communication and Networking",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EC45P - Professional Practices",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EC46P - Microcontroller Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15EC47P - Digital Communication & N/W Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4NT - Kannada Kali - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4KT - Tantrika Kannada - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "5TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15EC51T -Organisational Management and Entrepreneurship",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15EC52T - ARM Controller",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EC53T - Advanced Communication",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EC54T - Applications of Electronics Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EC55P - ARM Controller Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EC56P - PCB Design and Fabrication Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15EC57P - Electronics Servicing Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15EC58P - Project Work-I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "6TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15EC61T -Industrial Automation",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15EC62T - Embedded Systems",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3.2. 15EC63B - Advanced Microprocessors",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15EC64P - Industrial Automation Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15EC65P - Verilog Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EC66P - Project Work-II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15EC67P - Inplant Training",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ]
+    },
+    "MECHANICAL ENGINEERING" : {
+      "1ST SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15CP01E - English Communication",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "1. 15SC02M - Engineering Mathematics - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15ME11T - Work Shop Technology",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME12D - Engineering Graphics - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15ME13P - Basic Computer Skills",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15ME14P - Basic Workshop Practice - I",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "2ND SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15SC02M - Engineering Mathematics - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15SC03S - Applied Science",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15EE01E - Basic Electrical & Electronics Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME21D - Engineering Graphics - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15SC04P - Applied Science Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15EE02P - Basic Electrical & Electronics Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "3RD SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15ME31T - Strength Of Materials",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME32T - Mechanics Of Machines",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15ME33T - Mechanical Measurements",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME34D - Machine Drawing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15ME35P - Mechanical Computer Aided Drafting (MCAD)",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15ME36P - Basic Work Shop Practice - II",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15ME37P - Mechanical Testing And Quality Control Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3NT - Kannada Kali - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA3KT - Tantrika Kannada - 1",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "4TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15ME41T - Hydraulics & Pneumatics",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME42T - Basic Thermal Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3. 15ME43T - Machine Tool Technology",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME44T - Professional Ethics & Indian Constitution",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "5. 15ME45T - Hydraulics & Pneumatics Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15ME46P - Machine Shop",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15ME47P - C Programming LAB",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4NT - Kannada Kali - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "8. 15KA4KT - Tantrika Kannada - 2",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "5TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15ME51T - Industrial Management",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME52T - Applied Thermal Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME52T - Applied Thermal Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME52T - Applied Thermal Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME52T - Applied Thermal Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME52T - Applied Thermal Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME52T - Applied Thermal Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "6TH SEMESTER" : [ null, {
+        "CHAPTER" : "1. 15ME61T - Estimation And Costing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "2. 15ME62T - Computer Integrated Manufacturing",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "3.2. 15ME63B - Power Plant Engineering",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "4. 15ME64P - CNC LAB",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "\t5. 15ME65P - Computer Aided Analysis and Simulation Lab",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "6. 15ME66P - Project Work-II (Mechanical Stream)",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "7. 15ME67P - Inplant Training (Mechanical Stream)LAB",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ]
+    },
+    "MECHATRONICS ENGINEERING" : {
+      "1ST SEMESTER" : [ null, {
+        "CHAPTER" : "AAA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AAA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "SSS",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "SSS",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QW",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "2ND SEMESTER" : [ null, {
+        "CHAPTER" : "S",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AAA",
+        "LINK" : "QQQ"
+      }, {
+        "CHAPTER" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "3RD SEMESTER" : [ null, {
+        "CHAPTER" : "AD",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AAA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AAA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "SSS",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QQ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "SSS",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "4TH SEMESTER" : [ null, {
+        "CHAPTER" : "AAA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AAAA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AAA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AAA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QQQ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "A",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "5TH SEMESTER" : [ null, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "KJSDJ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QQQ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QQQ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : 1,
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QQQ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ],
+      "6TH SEMESTER" : [ null, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QQ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QQ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "QQQ",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      }, {
+        "CHAPTER" : "AA",
+        "LINK" : "https://drive.google.com/open?id=1rxBME4RRFnjdqSupMMFuUSansiySXyv0"
+      } ]
+    }
+  },
+  "UPLOADS" : {
+    "CIVIL ENGINEERING" : {
+      "6TH SEMESTER" : {
+        "10:18 PM" : {
+          "date" : "Jan 25, 2020",
+          "fileDesc" : "gy",
+          "fileSub" : "yyy",
+          "filename" : "tft",
+          "time" : "10:18 PM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCIVIL%20ENGINEERING%2F6TH%20SEMESTER%2Ftft.pdf?alt=media&token=d2b39645-7ecc-421e-ab90-ac5bdf71da43",
+          "username" : "C.E.O"
+        }
+      }
+    },
+    "COMPUTER SCIENCE AND ENGINEERING" : {
+      "5TH SEMESTER" : {
+        "04:23 PM" : {
+          "date" : "Jan 04, 2022",
+          "fileDesc" : "jdjsj",
+          "fileSub" : "usus",
+          "filename" : "jjs",
+          "time" : "04:23 PM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCOMPUTER%20SCIENCE%20AND%20ENGINEERING%2F5TH%20SEMESTER%2Fjjs.pdf?alt=media&token=0c68bc0d-67fe-462a-aa34-fff0e6f5ee30",
+          "username" : "shinchan"
+        },
+        "09:33 PM" : {
+          "date" : "Nov 15, 2021",
+          "fileDesc" : "temp",
+          "fileSub" : "py",
+          "filename" : "python",
+          "time" : "09:33 PM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCOMPUTER%20SCIENCE%20AND%20ENGINEERING%2F5TH%20SEMESTER%2Fpython.pdf?alt=media&token=d6d864a7-6056-4faa-9921-7dd1a68f9565",
+          "username" : "adinathanikam"
+        }
+      },
+      "6TH SEMESTER" : {
+        "03:10 PM" : {
+          "date" : "Jan 29, 2020",
+          "fileDesc" : "gkhxgkdgksjr",
+          "fileSub" : "fjzfjzjfa",
+          "filename" : "jfzfj",
+          "time" : "03:10 PM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCOMPUTER%20SCIENCE%20AND%20ENGINEERING%2F6TH%20SEMESTER%2Fjfzfj.pdf?alt=media&token=c8172b77-af58-42db-86d2-5f139247928a",
+          "username" : "sid"
+        },
+        "08:28 AM" : {
+          "date" : "Jan 29, 2020",
+          "fileDesc" : "pings",
+          "fileSub" : "ping me",
+          "filename" : "ping ",
+          "time" : "08:28 AM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCOMPUTER%20SCIENCE%20AND%20ENGINEERING%2F6TH%20SEMESTER%2Fping%20.pdf?alt=media&token=92b0bb96-f261-4f76-95b2-98e4f1dd40e9",
+          "username" : "@adi"
+        },
+        "09:50 PM" : {
+          "date" : "Jan 25, 2020",
+          "fileDesc" : "rcg hubbub grill green jul mg to be well be well ke well ke well it will",
+          "fileSub" : "drttttt6yy6666666665ttgffddee34456yffddeee45yygfdse",
+          "filename" : "1234",
+          "time" : "09:50 PM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCOMPUTER%20SCIENCE%20AND%20ENGINEERING%2F6TH%20SEMESTER%2F1234.pdf?alt=media&token=b39c5668-8d26-4d49-b834-60a1b2a010a7",
+          "username" : "C.E.O"
+        },
+        "09:53 PM" : {
+          "date" : "Jan 25, 2020",
+          "fileDesc" : "uuu",
+          "fileSub" : "ftyy",
+          "filename" : "2223",
+          "time" : "09:53 PM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCOMPUTER%20SCIENCE%20AND%20ENGINEERING%2F6TH%20SEMESTER%2F2223.pdf?alt=media&token=cdf9ac3d-5191-4f2c-a0b4-af511a06cc8a",
+          "username" : "C.E.O"
+        },
+        "10:07 PM" : {
+          "date" : "Jan 25, 2020",
+          "fileDesc" : "bspahe eto keep kal kal keep kal kal kal",
+          "fileSub" : "Heidi heap jayo kal jayo jayo kal",
+          "filename" : "qwwwrr him he'll keep bsp just",
+          "time" : "10:09 PM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCOMPUTER%20SCIENCE%20AND%20ENGINEERING%2F6TH%20SEMESTER%2Fqwwwrr%20him%20he'll%20keep%20bsp%20just.pdf?alt=media&token=7cac42f1-b10a-4384-839f-8d5088ed2a73",
+          "username" : "C.E.O"
+        },
+        "11:45 AM" : {
+          "date" : "Jun 28, 2020",
+          "fileDesc" : "Tutorial",
+          "fileSub" : "Git",
+          "filename" : "GitHub Tut",
+          "time" : "11:45 AM",
+          "url" : "https://firebasestorage.googleapis.com/v0/b/notespedia-28d9c.appspot.com/o/Uploads%2FCOMPUTER%20SCIENCE%20AND%20ENGINEERING%2F6TH%20SEMESTER%2FGitHub%20Tut.pdf?alt=media&token=a1d1c435-1cdc-44ce-b975-1e9e697acc3e",
+          "username" : "ADINATH Nikam"
+        }
+      }
+    }
+  },
+  "USERS" : {
+    "7DEI8ikiY9XnckCESjuFaUjiAuK2" : {
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "ompawar2109@gmail.com",
+      "userGender" : "Male",
+      "userName" : "om",
+      "userPhoneNumber" : "9663295064",
+      "userSemester" : "6TH SEMESTER"
+    },
+    "GvT6osb49jTKixapJcsvMvvqVb23" : {
+      "userCollege" : "MOTICHAND LENGADE BHARATESH POLYTECHNIC",
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "darshan6348792@gmail.com",
+      "userGender" : "Male",
+      "userName" : "shinchan",
+      "userPhoneNumber" : "7090683069",
+      "userSemester" : "5TH SEMESTER"
+    },
+    "JiEPNG42klYQbf4XCKuiv7YX3mT2" : {
+      "userCollege" : "MOTICHAND LENGADE BHARATESH POLYTECHNIC",
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "adinathanikam@gmail.com",
+      "userGender" : "Male",
+      "userName" : "adinath",
+      "userPhoneNumber" : "9113910407",
+      "userSemester" : "6TH SEMESTER"
+    },
+    "MKAnA8LO9yX4pky3hPyWajqNdlx1" : {
+      "userCollege" : "MOTICHAND LENGADE BHARATESH POLYTECHNIC",
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "adinathanikam@gmail.com",
+      "userGender" : "Male",
+      "userName" : "adinathanikam",
+      "userPhoneNumber" : "9113910407",
+      "userSemester" : "5TH SEMESTER"
+    },
+    "Sf2AWXax3fXPO5s7qj93vPUpyjz1" : {
+      "userCollege" : "MOTICHAND LENGADE BHARATESH POLYTECHNIC",
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "ayazpachapure777@gmail.com",
+      "userGender" : "Male",
+      "userName" : "Ice_wallow_kum_786",
+      "userPhoneNumber" : "9341101547",
+      "userSemester" : "5TH SEMESTER"
+    },
+    "dRuhuljq8QSuhrazXn23qaSyXRG3" : {
+      "userCollege" : "MOTICHAND LENGADE BHARATESH POLYTECHNIC",
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "test1@gmail.com",
+      "userGender" : "Male",
+      "userName" : "adinath",
+      "userPhoneNumber" : "9113910407",
+      "userSemester" : "6TH SEMESTER"
+    },
+    "jlCsrc9aJ7PKSX4LRkCx9L5WWtf1" : {
+      "userCollege" : "MOTICHAND LENGADE BHARATESH POLYTECHNIC",
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "hustlersdictionary@gmail.com",
+      "userGender" : "Male",
+      "userName" : "ADINATH Nikam",
+      "userPhoneNumber" : "5113910407",
+      "userSemester" : "1ST SEMESTER"
+    },
+    "p2Oo8Evui1fRZgVAhkHDExRRqZb2" : {
+      "userCollege" : "MOTICHAND LENGADE BHARATESH POLYTECHNIC",
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "test@test.com",
+      "userGender" : "Male",
+      "userName" : "test",
+      "userPhoneNumber" : "9113910407",
+      "userSemester" : "6TH SEMESTER"
+    },
+    "urrNcdGb3qhb4u1NmD0HMqK7SAI3" : {
+      "userDepartment" : "COMPUTER SCIENCE AND ENGINEERING",
+      "userEmail" : "sidkapolkar2001@gmail.com",
+      "userGender" : "Male",
+      "userName" : "SIDDESH",
+      "userPhoneNumber" : "8762174529",
+      "userSemester" : "6TH SEMESTER"
+    }
+  }
+}
