@@ -61,27 +61,30 @@ public class signup extends AppCompatActivity {
         gotoLoginActivity();
         ProgressBarShow();
         ProgressBarHide();
-        SemestersSpinner();
+        //SemestersSpinner();
+
+        FBSemesterSpinner();
+
+        FBCourseSpinner();
 
 
-
-        //Spinner
-        ArrayAdapter arrayAdapter = new ArrayAdapter(this,android.R.layout.simple_spinner_item,spinnerArray);
-        arrayAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinner.setAdapter(arrayAdapter);
-        
-        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            @Override
-            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                SelectedCourse = spinnerArray[position].toUpperCase();
-            }
-
-            @Override
-            public void onNothingSelected(AdapterView<?> parent) {
-
-            }
-        });
-        //Spinner Ends
+//        //Normal Course Spinner
+//        ArrayAdapter arrayAdapter = new ArrayAdapter(this,android.R.layout.simple_spinner_item,spinnerArray);
+//        arrayAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+//        spinner.setAdapter(arrayAdapter);
+//
+//        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+//            @Override
+//            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+//                SelectedCourse = spinnerArray[position].toUpperCase();
+//            }
+//
+//            @Override
+//            public void onNothingSelected(AdapterView<?> parent) {
+//
+//            }
+//        });
+//        //Normal Course Spinner Ends
 
         //on sign in_btn clicked
         // Create Account Code Starts
@@ -109,7 +112,18 @@ public class signup extends AppCompatActivity {
 
                 //Checking is input fields are empty
 
-                if ( SelectedSemester.equals("Select Your Semester..") || SelectedCollege.equals("Select College") ||SelectedCourse.equals("Select Your Course..") ||username.isEmpty() || email.isEmpty() || phonenumber.isEmpty() || password1.isEmpty() || password2.isEmpty() ||  password1.length()<8 || password2.length()<8 || phonenumber.length() < 10 || phonenumber.length() > 10 || Gender=="") {
+                if (SelectedSemester.equals("Select Your Semester..") ||
+                        SelectedCollege.equals("Select Your College..") ||
+                        SelectedCourse.equals("Select Your Course..") ||
+                        username.isEmpty() ||
+                        email.isEmpty() ||
+                        phonenumber.isEmpty() ||
+                        password1.isEmpty() ||
+                        password2.isEmpty() ||
+                        password1.length() < 8 ||
+                        password2.length() < 8 ||
+                        phonenumber.length() != 10 ||
+                        Gender.equals("")) {
 
                     ProgressBarHide();
 
@@ -177,7 +191,7 @@ public class signup extends AppCompatActivity {
                                             sendDatatoDB();
                                             finish();
                                             Toast.makeText(signup.this, "Registration Successful", Toast.LENGTH_SHORT).show();
-                                            startActivity(new Intent(signup.this, SplashScreen.class));
+                                            startActivity(new Intent(signup.this, SetProfilePic.class)); // Change Where to go after succefull regestration.
                                         } else {
                                             ProgressBarHide();
                                             Toast.makeText(signup.this, "Registration Failed", Toast.LENGTH_SHORT).show();
@@ -289,6 +303,58 @@ public class signup extends AppCompatActivity {
         myRef.setValue(senddatatodb);
     }
 
+
+    //Firebase Courses spinner
+    private void FBCourseSpinner() {
+        FirebaseDatabase.getInstance().getReference()
+                .child("SPINNER COURSES")
+                .addListenerForSingleValueEvent(new ValueEventListener() {
+                    @Override
+                    public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                        final List<String> titleList = new ArrayList<String>();
+                        for(DataSnapshot dataSnapshot1: dataSnapshot.getChildren()){
+                            String course = (String) dataSnapshot1.getValue();
+                            titleList.add(course);
+                        }
+                        ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(signup.this, android.R.layout.simple_spinner_item, titleList);
+                        arrayAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+                        spinner.setAdapter(arrayAdapter);
+
+
+
+
+
+                        //item select
+
+                        spinner.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+                            @Override
+                            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                                SelectedCourse = titleList.get(position);
+                            }
+
+                            @Override
+                            public void onNothingSelected(AdapterView<?> parent) {
+
+                            }
+                        });
+
+                        //item select
+
+
+
+                    }
+
+                    @Override
+                    public void onCancelled(@NonNull DatabaseError databaseError) {
+
+                    }
+                });
+
+
+
+    }
+    //Firebase Courses spinner
+
     //colleges spinner
     private void CollegesSpinner() {
         FirebaseDatabase.getInstance().getReference()
@@ -340,25 +406,78 @@ public class signup extends AppCompatActivity {
     }
     //colleges spinner
 
-    private void SemestersSpinner() {
-        //Spinner
-        ArrayAdapter arrayAdapterSemesters = new ArrayAdapter(this,android.R.layout.simple_spinner_item,spinnerArraySEMESTERS);
-        arrayAdapterSemesters.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-        spinnerSEMESTERS.setAdapter(arrayAdapterSemesters);
+    //Firebase Semester spinner
+    private void FBSemesterSpinner() {
+        FirebaseDatabase.getInstance().getReference()
+                .child("SPINNER SEMESTERS")
+                .addListenerForSingleValueEvent(new ValueEventListener() {
+                    @Override
+                    public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                        final List<String> titleList = new ArrayList<String>();
+                        for(DataSnapshot dataSnapshot1: dataSnapshot.getChildren()){
+                            String clg_sem = (String) dataSnapshot1.getValue();
+                            titleList.add(clg_sem);
+                        }
+                        ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(signup.this, android.R.layout.simple_spinner_item, titleList);
+                        arrayAdapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+                        spinnerSEMESTERS.setAdapter(arrayAdapter);
 
-        spinnerSEMESTERS.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            @Override
-            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-                SelectedSemester = spinnerArraySEMESTERS[position];
-            }
 
-            @Override
-            public void onNothingSelected(AdapterView<?> parent) {
 
-            }
-        });
-        //Spinner Ends
+
+
+                        //item select
+
+                        spinnerSEMESTERS.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+                            @Override
+                            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+                                SelectedSemester = titleList.get(position);
+                            }
+
+                            @Override
+                            public void onNothingSelected(AdapterView<?> parent) {
+
+                            }
+                        });
+
+                        //item select
+
+
+
+                    }
+
+                    @Override
+                    public void onCancelled(@NonNull DatabaseError databaseError) {
+
+                    }
+                });
+
+
+
     }
+    //Firebase Semester spinner
+
+//    //Normal Semester Spinner
+//    private void SemestersSpinner() {
+//        //Spinner
+//        ArrayAdapter arrayAdapterSemesters = new ArrayAdapter(this,android.R.layout.simple_spinner_item,spinnerArraySEMESTERS);
+//        arrayAdapterSemesters.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
+//        spinnerSEMESTERS.setAdapter(arrayAdapterSemesters);
+//
+//        spinnerSEMESTERS.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+//            @Override
+//            public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
+//                SelectedSemester = spinnerArraySEMESTERS[position];
+//            }
+//
+//            @Override
+//            public void onNothingSelected(AdapterView<?> parent) {
+//
+//            }
+//        });
+//        //Spinner Ends
+//    }
+//    //Normal Semester Spinner
 
     // User Defined Functions Ends
 

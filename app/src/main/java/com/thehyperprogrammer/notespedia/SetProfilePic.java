@@ -101,7 +101,7 @@ public class SetProfilePic extends AppCompatActivity {
                         Toast.makeText(SetProfilePic.this, "Successful", Toast.LENGTH_SHORT).show();
                         progressDialog.dismiss();
                         finish();
-                        startActivity(new Intent(SetProfilePic.this,Home.class));
+                        startActivity(new Intent(SetProfilePic.this,SplashScreen.class));
                     }
                 });
             }

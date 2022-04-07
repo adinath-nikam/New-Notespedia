@@ -69,8 +69,7 @@ public class Profile extends AppCompatActivity {
                             "AUTOMOBILE ENGINEERING",
                             "ELECTRONICS AND COMMUNICATION ENGINEERING",
                             "ELECTRICAL AND ELECTRONICS ENGINEERING",
-                            "CIVIL ENGINEERING",
-                            "MECHATRONICS AND ENGINEERING"};
+                            "CIVIL ENGINEERING"};
 
     CharSequence[] Gendervalues = {"Male","Female"};
 
@@ -79,7 +78,9 @@ public class Profile extends AppCompatActivity {
                                     "3RD SEMESTER",
                                     "4TH SEMESTER",
                                     "5TH SEMESTER",
-                                    "6TH SEMESTER"};
+                                    "6TH SEMESTER",
+                                    "7TH SEMESTER",
+                                    "8TH SEMESTER"};
 
     private static int PICK_IMAGE = 1;
     private  int STORAGE_PERMISSION_CODE = 1;
@@ -187,10 +188,6 @@ public class Profile extends AppCompatActivity {
                             case 5:
                                 SendDataDB UpdateDeptToCivil = new SendDataDB(ProfileNameVAR, ProfileEmailVAR, ProfilePhoneVAR, ProfileGenderVAR, "CIVIL ENGINEERING",ProfileSemesterVAR,ProfileCollegeVAR);
                                 mRef.setValue(UpdateDeptToCivil);
-                                break;
-                            case 6:
-                                SendDataDB UpdateDeptMC = new SendDataDB(ProfileNameVAR, ProfileEmailVAR, ProfilePhoneVAR, ProfileGenderVAR, "MECHATRONICS AND ENGINEERING",ProfileSemesterVAR,ProfileCollegeVAR);
-                                mRef.setValue(UpdateDeptMC);
                                 break;
                         }
                         dialog.dismiss();
@@ -499,6 +496,21 @@ public class Profile extends AppCompatActivity {
                                 progressDialog.show();
                                 SendDataDB UpdateSemesterTo6 = new SendDataDB(ProfileNameVAR, ProfileEmailVAR, ProfilePhoneVAR,ProfileGenderVAR, ProfileDepartmentVAR,"6TH SEMESTER",ProfileCollegeVAR);
                                 mRef.setValue(UpdateSemesterTo6);
+                                Toast.makeText(Profile.this, "Update Successful", Toast.LENGTH_SHORT).show();
+                                progressDialog.dismiss();
+                                break;
+                            case 6:
+                                progressDialog.show();
+                                SendDataDB UpdateSemesterTo7 = new SendDataDB(ProfileNameVAR, ProfileEmailVAR, ProfilePhoneVAR,ProfileGenderVAR, ProfileDepartmentVAR,"7TH SEMESTER",ProfileCollegeVAR);
+                                mRef.setValue(UpdateSemesterTo7);
+                                Toast.makeText(Profile.this, "Update Successful", Toast.LENGTH_SHORT).show();
+                                progressDialog.dismiss();
+                                break;
+
+                            case 7:
+                                progressDialog.show();
+                                SendDataDB UpdateSemesterTo8 = new SendDataDB(ProfileNameVAR, ProfileEmailVAR, ProfilePhoneVAR,ProfileGenderVAR, ProfileDepartmentVAR,"8TH SEMESTER",ProfileCollegeVAR);
+                                mRef.setValue(UpdateSemesterTo8);
                                 Toast.makeText(Profile.this, "Update Successful", Toast.LENGTH_SHORT).show();
                                 progressDialog.dismiss();
                                 break;
