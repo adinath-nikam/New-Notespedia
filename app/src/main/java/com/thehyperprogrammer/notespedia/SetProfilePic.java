@@ -160,7 +160,7 @@ public class SetProfilePic extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 finish();
-                startActivity(new Intent(SetProfilePic.this,Home.class));
+                startActivity(new Intent(SetProfilePic.this,SplashScreen.class));
             }
         });
 
